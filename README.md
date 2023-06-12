@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nimish Lingesh][(https://nimishlingesh.github.io/portfolio/)] 👋
 
-<p align="left"> <img src=https://github.com/NimishLingesh.png" alt="NimishLingesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NimishLingesh&label=Views&color=blue&style=plastic" alt="NimishLingesh" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-nimish-aarya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nimish-aarya/)](https://www.linkedin.com/in/nimish-aarya/)
 
