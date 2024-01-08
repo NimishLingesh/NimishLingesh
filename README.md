@@ -4,9 +4,9 @@
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-nimish-aarya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nimish-aarya/)](https://www.linkedin.com/in/nimish-aarya/) -->
 
-## I'm a Developer, and Web Technology Enthusiastic!
+## I'm a Software Developer, and Web Technology Enthusiastic!
 
-- 🔭 I’m currently working on React, ASP.net
+- 🔭 I have good experience in Python, Docker, Kubernetes, React, NextJS, NodeJS, ASP.net and a lot a more interesting stuffs
 - ⚡ Fun fact: I love hiking
 
 <!-- ### Connect with me:
